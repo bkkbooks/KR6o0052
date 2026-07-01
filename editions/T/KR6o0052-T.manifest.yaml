@@ -1,0 +1,320 @@
+canonical_identifier: bkk:krp/KR6o0052/T/v1
+canonical_location: https://kanripo.org/bkk/KR6o0052/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 解脫道論
+  identifiers:
+    krp: KR6o0052
+    cbeta: T32n1648
+    cbeta_old_id: T32n1648
+    authorityid: CA0001582
+    json_key: T1648
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T32/T32n1648.xml
+    old_id: T32n1648
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6o0052_000-T.yaml, hash: 'sha256:67c2966603d1fad259c3c4b614a9fe76c84b3468600f0de84d29ca02541299f3'}
+  - {seq: 1, filename: KR6o0052_001-T.yaml, hash: 'sha256:05f9eb56d0cd19fd88fa22406df66fcd39dcc8fd9c6d9156db34ec16514d1c15'}
+  - {seq: 2, filename: KR6o0052_002-T.yaml, hash: 'sha256:642ba578611f1d9c7a315fd65d1d0fb4937f28eed82c2ce8fd1eceaaa73bbe3b'}
+  - {seq: 3, filename: KR6o0052_003-T.yaml, hash: 'sha256:510316a64407670433fc30711e0321b0f1c11c6675f7bc5ad22d08c4ed51146a'}
+  - {seq: 4, filename: KR6o0052_004-T.yaml, hash: 'sha256:51810808eafcbccd2b20b1e96a51cba9f72e88283c6dd37de5fb4f91ba8169de'}
+  - {seq: 5, filename: KR6o0052_005-T.yaml, hash: 'sha256:4c654870fa2166c4613c82496929b942d7060c81a11e74398372e696f4c29ec4'}
+  - {seq: 6, filename: KR6o0052_006-T.yaml, hash: 'sha256:6033181917615586a6c9db7dd043aec4135396b84f2bd7acb0951580c94a0d77'}
+  - {seq: 7, filename: KR6o0052_007-T.yaml, hash: 'sha256:04fcbe225528d2df1af48b80a98734a06cdc2547a55633a066bc10b35bc3f004'}
+  - {seq: 8, filename: KR6o0052_008-T.yaml, hash: 'sha256:3e8ff443803b16428c79352ef341e09c71200cdd387e012358a796df92b69293'}
+  - {seq: 9, filename: KR6o0052_009-T.yaml, hash: 'sha256:2f64aa5306bb5c085d9afc7a95293481210415820a09d08a918370f3f29d58bc'}
+  - {seq: 10, filename: KR6o0052_010-T.yaml, hash: 'sha256:f778d14d11f293f0dfca1b157827aa8d9f7b8a0b1d59309ac98000437d3a010d'}
+  - {seq: 11, filename: KR6o0052_011-T.yaml, hash: 'sha256:6c3af130b397b74433958b84103161f115fcea85c7b2f91c3d9048e5dae6d444'}
+  - {seq: 12, filename: KR6o0052_012-T.yaml, hash: 'sha256:ce197079b464c467e27d076dd46a7d268460b87c3f17c8108da42b9099ad836b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6o0052_000-T.markers.yaml, hash: 'sha256:b5f7717527d7ed77871189f65355a1471a233aba9c38791d499d26d5bc5e090e'}
+  - {seq: 1, role: markers, filename: assets/KR6o0052_001-T.markers.yaml, hash: 'sha256:9340c9cb731381288f71e4e736932e7ec20da0c54fc684d728111dd0729dfbd9'}
+  - {seq: 2, role: markers, filename: assets/KR6o0052_002-T.markers.yaml, hash: 'sha256:511dbf15b7fa26bf8badea5bce91100108c8751afecc6d7994b5bc1b770b2887'}
+  - {seq: 3, role: markers, filename: assets/KR6o0052_003-T.markers.yaml, hash: 'sha256:a2e4014a440e18734975855ad53d0bbc8223fad3bcc91eba26069d49a5dbab3f'}
+  - {seq: 4, role: markers, filename: assets/KR6o0052_004-T.markers.yaml, hash: 'sha256:4dbf745267e16ffe33a3a58d19e468bf8f7bc2af59ebb73fcaee693c56e1b935'}
+  - {seq: 5, role: markers, filename: assets/KR6o0052_005-T.markers.yaml, hash: 'sha256:36da420968f859554ddc8315e895039f486a2ebf82535174ea9d79e34bc68e3b'}
+  - {seq: 6, role: markers, filename: assets/KR6o0052_006-T.markers.yaml, hash: 'sha256:ad7c6274d25b54428b2779f41ade0ae7ea876f3f52b1dde0ecc9abfdb9909fae'}
+  - {seq: 7, role: markers, filename: assets/KR6o0052_007-T.markers.yaml, hash: 'sha256:2d41032fdc374b2fa2e07c7f5424e4b12fe84aa9e39560f69bc937d2b527245f'}
+  - {seq: 8, role: markers, filename: assets/KR6o0052_008-T.markers.yaml, hash: 'sha256:0e0373610cc94c9ea63c58441ee70553f6479d07c9e14b31829374f1027b4c2b'}
+  - {seq: 9, role: markers, filename: assets/KR6o0052_009-T.markers.yaml, hash: 'sha256:04102565b3087ad13e5fdd4829f3056b0b08be21a120a4b925a9ca31d3c45a28'}
+  - {seq: 10, role: markers, filename: assets/KR6o0052_010-T.markers.yaml, hash: 'sha256:4474054d84e22023894806fb6cfd6163ba6c8f4399143a462d7b379667cea5bb'}
+  - {seq: 11, role: markers, filename: assets/KR6o0052_011-T.markers.yaml, hash: 'sha256:5290c3d471d1cc2ca698df0d72898a8c3467a44d883544b6d6a7f64ef72e063b'}
+  - {seq: 12, role: markers, filename: assets/KR6o0052_012-T.markers.yaml, hash: 'sha256:751d16871b45d4c275402df7148616712332c1b7a4df696e6ee7329f63955ddd'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6o0052_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 6734
+  label: 解脫道論卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6o0052_T_001-mulu-1
+    span:
+    - body
+    - 22
+    - 22
+  label: 1 因緣品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6o0052_T_001-mulu-2
+    span:
+    - body
+    - 1220
+    - 1220
+  label: 2 分別戒品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6o0052_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 7074
+  label: 解脫道論卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6o0052_T_002-mulu-1
+    span:
+    - body
+    - 22
+    - 22
+  label: 3 頭陀品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6o0052_T_002-mulu-2
+    span:
+    - body
+    - 3414
+    - 3414
+  label: 4 分別定品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6o0052_T_002-mulu-3
+    span:
+    - body
+    - 5458
+    - 5458
+  label: 5 覓善知識品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6o0052_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 4139
+  label: 解脫道論卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6o0052_T_003-mulu-1
+    span:
+    - body
+    - 22
+    - 22
+  label: 6 分別行品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6o0052_T_003-mulu-2
+    span:
+    - body
+    - 2122
+    - 2122
+  label: 7 分別行處品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6o0052_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 7710
+  label: 解脫道論卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6o0052_T_004-mulu-1
+    span:
+    - body
+    - 22
+    - 22
+  label: 8 行門品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6o0052_T_004-mulu-2
+    span:
+    - body
+    - 22
+    - 22
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6o0052_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 8775
+  label: 解脫道論卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6o0052_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 7851
+  label: 解脫道論卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6o0052_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 7395
+  label: 解脫道論卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6o0052_T_008-juan-start
+    span:
+    - body
+    - 0
+    - 8664
+  label: 解脫道論卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6o0052_T_009-juan-start
+    span:
+    - body
+    - 0
+    - 6256
+  label: 解脫道論卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6o0052_T_009-mulu-1
+    span:
+    - body
+    - 22
+    - 22
+  label: 9 五通品
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6o0052_T_009-mulu-2
+    span:
+    - body
+    - 4908
+    - 4908
+  label: 10 分別慧品
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6o0052_T_010-juan-start
+    span:
+    - body
+    - 0
+    - 8872
+  label: 解脫道論卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6o0052_T_010-mulu-1
+    span:
+    - body
+    - 22
+    - 22
+  label: 11 五方便品
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6o0052_T_010-mulu-2
+    span:
+    - body
+    - 22
+    - 22
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6o0052_T_011-juan-start
+    span:
+    - body
+    - 0
+    - 6439
+  label: 解脫道論卷第十一
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6o0052_T_011-mulu-1
+    span:
+    - body
+    - 2275
+    - 2275
+  label: 12 分別諦品
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6o0052_T_011-mulu-2
+    span:
+    - body
+    - 2275
+    - 2275
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6o0052_T_012-juan-start
+    span:
+    - body
+    - 0
+    - 7300
+  label: 解脫道論卷第十二
+  type: juan
+  level: 1
+hash: sha256:8d77f987b7097961580939f8ecff4d9299b7165ca74e397778f442162491c8bd
